@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="noNews">No News to Display</string>
+    <string name="category">Category</string>
+    <string name="news">Display News</string>
+    <string name="noInternetConnection">No Internet Connection Available</string>
+</resources>
